@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="GridOptions">
+        <attr name="row" format=w"integer" ></attr>
+        <attr name="column" format="integer"></attr>
+    </declare-styleable>
+</resources>

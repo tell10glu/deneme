@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mayin Tarlasi Bayraklari</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <color name="cell_default">#ffbffffa</color>
+</resources>
+
